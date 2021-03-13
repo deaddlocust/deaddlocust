@@ -1,4 +1,4 @@
-# About me
+# deaddlocust
 
 ![alt text](https://media.discordapp.net/attachments/773068882520309794/820297810259214396/locust_pfp.png)
 
