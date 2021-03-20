@@ -7,17 +7,6 @@ I'm a C# developer that develops ROBLOX game cheats/exploits and other random pr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deaddlocust&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Known Languages
-
-<p>
-  <a title="C#" href="https://www.w3schools.com/cs/default.asp">
-    <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="CSharp">
-  </a>
-  <a title="C++" href="https://www.learncpp.com/">
-    <img width="35" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPP">
-  </a>
-</p>
-
 ## Contact
 
 Discord: deaddlocust#1757
