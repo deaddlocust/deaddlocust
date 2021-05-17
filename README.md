@@ -7,9 +7,6 @@ I'm a C#/C++ developer that develops ROBLOX game cheats/exploits and other rando
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deaddlocust&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Repositories
-Most of my repos are just used to host files so not many actually have public code in it.
-
 ## Contact
 
 Discord: deaddlocust#1757
