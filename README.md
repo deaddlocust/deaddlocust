@@ -1,6 +1,6 @@
 # About
 
-I'm a C#/C++ developer that develops ROBLOX game cheats/exploits and other random projects. Feel free to look through my repositories.
+I'm a C# and C++ developer that develops game cheats/exploits and other random projects. Feel free to look through my repositories.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deaddlocust&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -10,6 +10,7 @@ I'm a C#/C++ developer that develops ROBLOX game cheats/exploits and other rando
 ## Contact
 
 Discord: deaddlocust#1757
+Email: notevanchua@gmail.com
 
 
 
