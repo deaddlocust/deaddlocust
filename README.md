@@ -1,6 +1,6 @@
 # About
 
-I'm a C# and C++ developer that develops game cheats/exploits and other random projects. I am mostly prominent in the [WeAreDevs ROBLOX cheat forum](https://wearedevs.net/forum). Feel free to look through my repositories.
+I'm a C# and C++ developer that develops game cheats/exploits and other random projects. I am mostly prominent in the [WeAreDevs](https://wearedevs.net/forum) ROBLOX cheat forum. Feel free to look through my repositories.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deaddlocust&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,6 +9,8 @@ I'm a C# and C++ developer that develops game cheats/exploits and other random p
 ## Contact
 
 Discord: deaddlocust#1757
+V3rmillion: https://v3rmillion.net/member.php?action=profile&uid=1776386
+WeAreDevs: https://wearedevs.net/profile?uid=63568
 
 
 
