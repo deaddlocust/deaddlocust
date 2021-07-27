@@ -9,7 +9,7 @@ Side Project: [Project Prism](https://github.com/Project-Prism)
 
 ## Contact
 
-Discord: deaddlocust#1757
+Discord: deadlocust#1757
 
 V3rmillion: https://v3rmillion.net/member.php?action=profile&uid=1776386
 
@@ -19,5 +19,3 @@ WeAreDevs: https://wearedevs.net/profile?uid=63568
 
 <!--
 **deaddlocust/deaddlocust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
