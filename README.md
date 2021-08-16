@@ -10,7 +10,7 @@ I am mostly prominent on the [WeAreDevs](https://wearedevs.net/forum) ROBLOX che
 
 ## Contact
 
-Discord: deadlocust#1757
+Discord: deadlocust#8131
 
 V3rmillion: https://v3rmillion.net/member.php?action=profile&uid=1776386
 
