@@ -1,6 +1,6 @@
 # About
 
-I'm a C# developer that develops game cheats/exploits and other random projects. I know some basic C++ as well in cases where it would be more convinient to program in that language. Feel free to look through my repositories.
+I'm a C# developer that mostly develops game cheats/exploits and other random projects. I know some basic C++ as well in cases where it would be more convinient to program in that language. Feel free to look through my repositories.
 
 I am mostly prominent on the [WeAreDevs](https://wearedevs.net/forum) ROBLOX cheat forum.
 
